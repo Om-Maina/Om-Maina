@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Om-Maina/Om-Maina/blob/main/Software%20Developer.png)
 
 <h1 align="center">Hi 👋, I'm Om Maina</h1>
 <h3 align="center">Frontend Developer | React & Angular</h3>
