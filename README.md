@@ -1,4 +1,5 @@
-![logo](https://github.com/Om-Maina/Om-Maina/blob/main/Software%20Developer.png)
+![logo](https://github.com/Om-Maina/Om-Maina/blob/main/Blue%20Modern%20Digital%20Marketing%20Agency%20LinkedIn%20Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Om Maina</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
